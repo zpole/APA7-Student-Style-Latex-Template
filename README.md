@@ -6,4 +6,6 @@ APA7 Style guide: [General Format // Purdue Writing Lab](https://owl.purdue.edu/
 
 reference APA7 student sample paper: [Student_Sample_Paper.pdf](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/documents/APA%207%20Student%20Sample%20Paper.pdf)
 
+APA7 Latex package guide see here: https://ctan.math.illinois.edu/macros/latex/contrib/apa7/apa7.pdf
+
 please feel free to use it in your assignments.
